@@ -1,0 +1,20 @@
+Episode IX — Before You Close the Ticket
+
+After the open house, Phrank asked for a summary he could send to the help desk.
+Phred opened the original ticket and started to write that the printer had malfunctioned.
+Phranie read the first line over his shoulder.
+
+“The printer did everything we asked it to do,” she said.
+
+Phred tried again.
+
+Cause: A scheduled task on LIB-DESK-04 submitted a preview map every minute.
+Affected locations: Library, Science, Admissions
+Fix: Disabled OPEN-HOUSE-PREVIEW, removed queued previews, and verified normal printing.
+Follow-up: Review scheduled tasks before bringing retired systems back online.
+Closed by: Phred
+
+Phrancis stopped by on her way out.
+She put a clean campus map on Phred’s desk and circled the IT office.
+
+“For tomorrow,” she said. “You’ll want to get here fifteen minutes early.”

@@ -1,0 +1,16 @@
+Episode VII — The One-Page Test
+
+Phrank asked Phred to disable OPEN-HOUSE-PREVIEW and leave the label template alone.
+Phred disabled the task.
+Phranie watched the print server log through two full minutes.
+
+The next minute passed with no new preview jobs.
+The minute after that passed with no new preview jobs.
+Phred and Phranie cleared the remaining preview jobs from the three queues and resumed the library printer.
+The librarian’s waiting job printed.
+
+Phranie sent one copy of the current campus map to the library.
+The librarian called back to confirm that there was one map, the blue dot was on dry land, and the printer had stopped making noises.
+
+Phred changed the ticket status to resolved.
+Then he went to get the previews out of the admissions lobby.

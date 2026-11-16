@@ -1,0 +1,19 @@
+Episode VI — The Rehearsal That Never Ended
+
+Phred opened the virtual machine’s console while Phranie pulled up the morning’s maintenance ticket.
+A technician had started LIB-DESK-04 at eight to check whether that old label template was still readable.
+The template was fine.
+The machine had been left running.
+
+Phranie found a scheduled task called OPEN-HOUSE-PREVIEW.
+During the spring rehearsal, it had sent the same map to three printers so volunteers could check the layout from different buildings.
+The task was still enabled.
+As long as the machine was on, it submitted three print jobs every minute.
+
+Phred read through the list of printer names.
+LIBRARY, SCIENCE, ADMISSIONS.
+Then he checked the document name.
+PREVIEW.
+
+The rehearsal had lasted ten minutes last spring.
+This one had been running for most of the morning.

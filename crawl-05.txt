@@ -1,0 +1,23 @@
+Episode V — Retired, With Benefits
+
+The asset register said LIB-DESK-04 had been removed from the library in May.
+Phrank remembered carrying it out himself.
+He remembered it because the elevator was out and it was a very long walk to the loading dock.
+
+Phranie opened the retirement ticket.
+The last entry said a copy of the machine had been saved as a virtual machine so the team could retrieve an old label-printing template.
+There was no follow-up entry saying anyone had removed the copy.
+
+Phred walked over to Phrank’s office with the ticket.
+
+“Did you retire the computer?”
+
+“Yes.”
+
+“Did anybody tell the computer?”
+
+Phrank pulled up the list of virtual machines.
+LIB-DESK-04 was listed as running.
+It had started at eight that morning.
+
+Reviewed by: Phrank

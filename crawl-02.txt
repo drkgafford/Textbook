@@ -1,0 +1,21 @@
+Episode II — Three Buildings, One Job
+
+By nine o’clock, the library had company.
+The science building called to report an extra page coming out of its printer every minute.
+The admissions office called a minute later.
+They asked whether the extra page was part of the open house.
+
+Phranie pulled the print server log and found the same document going to all three buildings.
+The name of the document was PREVIEW.
+The account that sent it was printcheck.
+The computer listed as the source was LIB-DESK-04.
+
+Phred picked up the library’s copy.
+It was a campus map with a large blue dot in the middle of the duck pond.
+Under the dot, in letters big enough to read from across the room, were the words YOU ARE HERE.
+
+“Only if you’ve had a very bad morning,” said Phranie.
+
+Phrank opened the ticket and typed one more line.
+
+Assigned to: Phred

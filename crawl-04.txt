@@ -1,0 +1,24 @@
+Episode IV — The One-Minute Quiet
+
+Phred paused the library queue and cleared the test jobs that were still waiting.
+The printer finally went quiet.
+He left a note on it so the librarian would know why her next job was waiting.
+
+Phranie watched the log from her desk.
+At 9:46, another copy of PREVIEW arrived in the library queue.
+At 9:47, another arrived.
+The science building and admissions were still getting theirs.
+
+“If this were one stuck job, I’d expect to keep seeing the same job number,” she said.
+“Look at these.”
+
+Each minute brought three new job numbers.
+Phranie saved the matching lines and added a note to the ticket.
+
+Source: LIB-DESK-04
+Interval: 1 minute
+Checked by: Phranie
+
+Phred looked toward the library.
+He had bought them some quiet.
+He still owed the librarian a printer.
