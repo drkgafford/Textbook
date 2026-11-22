@@ -1,0 +1,9 @@
+09:46|library|PREVIEW|1
+09:46|science|PREVIEW|1
+09:46|admissions|PREVIEW|1
+09:47|library|PREVIEW|1
+09:47|science|PREVIEW|1
+09:47|admissions|PREVIEW|1
+10:08|library|CAMPUS-MAP|1
+10:09|science|HANDOUT|12
+10:10|admissions|SCHEDULE|3
