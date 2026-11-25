@@ -1,1 +1,5 @@
-
+1)~Phortenberry~Physics~80
+2)~Smithson~Math~90
+3)~Richardson~Biology~97
+4)~Kingsland~English~75
+5)~Rodriguez~History~89
